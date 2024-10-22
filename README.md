@@ -20,8 +20,6 @@ Airline Data: The primary dataset used for this analysis is the “Airline Datas
 Data Cleaning
 ### SQL: 
 Data Analysis
-### Power BI: 
-Creating Reports
 ### Tableau: 
 Creating Interactive Reports
 
