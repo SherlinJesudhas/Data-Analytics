@@ -3,7 +3,7 @@
 The primary goal of the High Cloud Airline Data Analytics Project is to enhance operational efficiency, optimize revenue, 
 and improve customer satisfaction through comprehensive data analysis. 
 This involves collecting, processing, and analyzing various data sources related to the airline’s operations, customers, and market trends to derive actionable insights.
-Marketing focuses on matching customers with the products or services that satisfy some of their needs. 
+Marketing focuses on matching customers with the products or services that satisfy some of their needs.
 Essential elements of marketing include analysis of the target market, market segmentation, targeting the chosen customer segments, positioning of products and services, 
 etc.
 
